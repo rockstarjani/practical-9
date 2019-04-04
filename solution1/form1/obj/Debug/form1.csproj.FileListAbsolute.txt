@@ -1,0 +1,4 @@
+E:\degree engineering\6th sem\dotnet\myprojects\solution1\form1\bin\form1.dll
+E:\degree engineering\6th sem\dotnet\myprojects\solution1\form1\bin\form1.pdb
+E:\degree engineering\6th sem\dotnet\myprojects\solution1\form1\obj\Debug\form1.dll
+E:\degree engineering\6th sem\dotnet\myprojects\solution1\form1\obj\Debug\form1.pdb
